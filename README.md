@@ -1,39 +1,22 @@
-# Project Name
+# Tech Blogger
 
-Project Name is a brief description of your project. Include a catchy tagline or slogan here.
+Tech Blogger! Become and a blogger of tech!
 
 ## Description
-
-Provide a detailed description of your project, including its purpose, key features, and any relevant information that will help users understand its value and functionality.
-
+Tech Blogger will allow you to socialize, to post and to comment on other users blogs about tech.
 ## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-
 ## Installation
-
-Explain how to install and set up your project. Provide step-by-step instructions, including any dependencies that need to be installed, configuration steps, or environment setup.
-
+Accessing to appliction will be on the repository. Along with being on it's Heroku Link:
+https://git.heroku.com/tech-blogger14.git
 ## Usage
-
-Provide instructions on how to use your project. Include examples, code snippets, or screenshots to illustrate its functionality. Consider providing different usage scenarios or options if applicable.
+To use the application you are able to post on a blog and comment along with make and sign in to an account.
 
 ## Contributing
-
-Explain how other developers or users can contribute to your project. Include guidelines for submitting bug reports, feature requests, or pull requests. Specify any coding conventions, commit message formats, or testing requirements.
-
-## License
-
-Specify the license under which your project is distributed. Choose an appropriate license that suits your project's needs, and include any necessary disclaimers or legal notices.
-
+malikburrus0
 ## Contact
-
-Provide contact information for users to reach out to you if they have any questions, feedback, or support requests. Include your email address, website, or any other relevant information.
-
-## Acknowledgements
-
-If your project relies on external libraries, frameworks, or resources, acknowledge and thank the respective authors or projects here. It's good practice to give credit to the tools and resources that have helped you build your project.
+https://github.com/malikburrus0
 
